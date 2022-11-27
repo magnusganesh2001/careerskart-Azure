@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "JWT_KEY": "awdaawdwaddawdcadwa",
+    "FILE_UPLOAD_ENDPOINT": "http://localhost:3000/",
+    "SQL_DB_HOST": "sql873.main-hosting.eu",
+    "SQL_DB_NAME": "u463412483_careerskart",
+    "SQL_DB_USERNAME": "u463412483_devapi",
+    "SQL_DB_PASSWORD": "Q~q912+t9"
+  }
+}
+
